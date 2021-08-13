@@ -1,0 +1,34 @@
+[
+  {
+    "package": "Tplyr",
+    "url": "https://github.com/atorus-research/Tplyr"
+  },
+  {
+    "package": "xportr",
+    "url": "https://github.com/atorus-research/xportr"
+  },
+  {
+    "package": "pharmaRTF",
+    "url": "https://github.com/atorus-research/pharmaRTF"
+  },
+  {
+    "package": "metacore",
+    "url": "https://github.com/atorus-research/metacore"
+  },
+  {
+    "package": "rtables",
+    "url": "https://github.com/Roche/rtables"
+  },
+  {
+    "package": "pkglite",
+    "url": "https://github.com/Merck/pkglite"
+  },
+  {
+    "package": "r2rtf",
+    "url": "https://github.com/Merck/r2rtf"
+  },
+  {
+    "package": "synthetic.cdisc.data",
+    "url": "https://github.com/Roche/synthetic.cdisc.data"
+  }
+]
