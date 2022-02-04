@@ -1,4 +1,12 @@
-[
+[  
+  {
+    "package": "admiral",
+    "url": "https://github.com/pharmaverse/admiral"
+  },
+  {
+    "package": "pharmaRTF",
+    "url": "https://github.com/atorus-research/pharmaRTF"
+  },
   {
     "package": "Tplyr",
     "url": "https://github.com/atorus-research/Tplyr"
@@ -20,8 +28,12 @@
     "url": "https://github.com/Roche/rtables"
   },
   {
-    "package": "pkglite",
-    "url": "https://github.com/Merck/pkglite"
+    "package": "rtables",
+    "url": "https://github.com/Roche/rtables"
+  },
+  {
+    "package": "timber",
+    "url": "https://github.com/atorus-research/timber"
   },
   {
     "package": "r2rtf",
@@ -30,5 +42,9 @@
   {
     "package": "synthetic.cdisc.data",
     "url": "https://github.com/Roche/synthetic.cdisc.data"
+  },
+  {
+    "package": "visR",
+    "url": "https://github.com/openpharma/visR"
   }
 ]
