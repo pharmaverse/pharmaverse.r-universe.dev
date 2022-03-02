@@ -24,6 +24,9 @@
     "url": "https://github.com/atorus-research/metacore"
   },
   {
+    "package": "metatools",
+    "url": "https://github.com/pharmaverse/metatools"
+  {
     "package": "rtables",
     "url": "https://github.com/Roche/rtables"
   },
