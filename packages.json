@@ -1,4 +1,4 @@
-[  
+[
   {
     "package": "admiral",
     "url": "https://github.com/pharmaverse/admiral"
@@ -46,5 +46,105 @@
   {
     "package": "visR",
     "url": "https://github.com/openpharma/visR"
+  },
+  {
+    "package": "scda.2021",
+    "url": "https://github.com/insightsengineering/scda.2021"
+  },
+  {
+    "package": "scda.2022",
+    "url": "https://github.com/insightsengineering/scda.2022"
+  },
+  {
+    "package": "formatters",
+    "url": "https://github.com/insightsengineering/formatters"
+  },
+  {
+    "package": "ggplot2.utils",
+    "url": "https://github.com/insightsengineering/ggplot2.utils"
+  },
+  {
+    "package": "hermes",
+    "url": "https://github.com/insightsengineering/hermes"
+  },
+  {
+    "package": "teal.logger",
+    "url": "https://github.com/insightsengineering/teal.logger"
+  },
+  {
+    "package": "scda",
+    "url": "https://github.com/insightsengineering/scda"
+  },
+  {
+    "package": "rtables",
+    "url": "https://github.com/insightsengineering/rtables"
+  },
+  {
+    "package": "hermes.roche",
+    "url": "https://github.com/insightsengineering/hermes.roche"
+  },
+  {
+    "package": "goshawk",
+    "url": "https://github.com/insightsengineering/goshawk"
+  },
+  {
+    "package": "teal.data",
+    "url": "https://github.com/insightsengineering/teal.data"
+  },
+  {
+    "package": "teal.reporter",
+    "url": "https://github.com/insightsengineering/teal.reporter"
+  },
+  {
+    "package": "teal.widgets",
+    "url": "https://github.com/insightsengineering/teal.widgets"
+  },
+  {
+    "package": "tern",
+    "url": "https://github.com/insightsengineering/tern"
+  },
+  {
+    "package": "teal.code",
+    "url": "https://github.com/insightsengineering/teal.code"
+  },
+  {
+    "package": "teal.slice",
+    "url": "https://github.com/insightsengineering/teal.slice"
+  },
+  {
+    "package": "osprey",
+    "url": "https://github.com/insightsengineering/osprey"
+  },
+  {
+    "package": "tern.mmrm",
+    "url": "https://github.com/insightsengineering/tern.mmrm"
+  },
+  {
+    "package": "teal.transform",
+    "url": "https://github.com/insightsengineering/teal.transform"
+  },
+  {
+    "package": "teal",
+    "url": "https://github.com/insightsengineering/teal"
+  },
+  {
+    "package": "teal.goshawk",
+    "url": "https://github.com/insightsengineering/teal.goshawk"
+  },
+  {
+    "package": "teal.modules.clinical",
+    "url": "https://github.com/insightsengineering/teal.modules.clinical"
+  },
+  {
+    "package": "teal.modules.general",
+    "url": "https://github.com/insightsengineering/teal.modules.general"
+  },
+  {
+    "package": "teal.modules.hermes",
+    "url": "https://github.com/insightsengineering/teal.modules.hermes"
+  },
+  {
+    "package": "teal.osprey",
+    "url": "https://github.com/insightsengineering/teal.osprey"
   }
 ]
