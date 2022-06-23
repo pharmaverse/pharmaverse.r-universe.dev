@@ -32,8 +32,8 @@
     "url": "https://github.com/Roche/rtables"
   },
   {
-    "package": "timber",
-    "url": "https://github.com/atorus-research/timber"
+    "package": "logrx",
+    "url": "https://github.com/atorus-research/logrx"
   },
   {
     "package": "r2rtf",
