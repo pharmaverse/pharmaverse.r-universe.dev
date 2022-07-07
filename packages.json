@@ -142,5 +142,9 @@
   {
     "package": "teal.osprey",
     "url": "https://github.com/insightsengineering/teal.osprey"
+  },
+  {
+    "package": "nestcolor",
+    "url": "https://github.com/insightsengineering/nestcolor"
   }
 ]
