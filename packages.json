@@ -146,5 +146,13 @@
   {
     "package": "nestcolor",
     "url": "https://github.com/insightsengineering/nestcolor"
+  },
+  {
+    "package": "mmrm",
+    "url": "https://github.com/openpharma/mmrm"
+  },
+  {
+    "package": "respectables",
+    "url": "https://github.com/Roche/respectables"
   }
 ]
