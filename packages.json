@@ -128,10 +128,6 @@
     "url": "https://github.com/Roche/rtables"
   },
   {
-    "package": "rtables",
-    "url": "https://github.com/insightsengineering/rtables"
-  },
-  {
     "package": "scda",
     "url": "https://github.com/insightsengineering/scda"
   },
