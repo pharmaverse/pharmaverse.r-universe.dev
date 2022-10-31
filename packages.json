@@ -12,12 +12,32 @@
     "url": "https://github.com/pharmaverse/admiraltemplate"
   },
   {
+    "package": "admiralonco",
+    "url": "https://github.com/pharmaverse/admiralonco"
+  },
+  {
+    "package": "admiralophtha",
+    "url": "https://github.com/pharmaverse/admiralophtha"
+  },
+  {
+    "package": "admiralvaccine",
+    "url": "https://github.com/pharmaverse/admiralvaccine"
+  },
+  {
+    "package": "admiral.test",
+    "url": "https://github.com/pharmaverse/admiral.test"
+  },
+  {
     "package": "crmPack",
     "url": "https://github.com/Roche/crmPack"
   },
   {
     "package": "CTP",
     "url": "https://github.com/openpharma/CTP"
+  },
+  {
+    "package": "datacutr",
+    "url": "https://github.com/pharmaverse/datacutr"
   },
   {
     "package": "descem",
@@ -76,6 +96,10 @@
     "url": "https://github.com/openpharma/mmrm"
   },
   {
+    "package": "mtdesign",
+    "url": "https://github.com/openpharma/mtdesign"
+  },
+  {
     "package": "nestcolor",
     "url": "https://github.com/insightsengineering/nestcolor"
   },
@@ -112,6 +136,10 @@
     "url": "https://github.com/insightsengineering/rbmi"
   },
   {
+    "package": "rlistings",
+    "url": "https://github.com/insightsengineering/rlistings"
+  },
+  {
     "package": "RDO",
     "url": "https://github.com/openpharma/RDO"
   },
@@ -140,8 +168,8 @@
     "url": "https://github.com/insightsengineering/scda.2022"
   },
   {
-    "package": "sdtmchecks2",
-    "url": "https://github.com/pharmaverse/sdtmchecks2"
+    "package": "sdtmchecks",
+    "url": "https://github.com/pharmaverse/sdtmchecks"
   },
   {
     "package": "simaerep",
@@ -214,6 +242,10 @@
   {
     "package": "tern",
     "url": "https://github.com/insightsengineering/tern"
+  },
+  {
+    "package": "tern.gee",
+    "url": "https://github.com/insightsengineering/tern.gee"
   },
   {
     "package": "tern.mmrm",
