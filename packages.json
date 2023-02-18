@@ -168,8 +168,16 @@
     "url": "https://github.com/insightsengineering/scda.2022"
   },
   {
+    "package": "scda.test",
+    "url": "https://github.com/insightsengineering/scda.test"
+  },
+  {
     "package": "sdtmchecks",
     "url": "https://github.com/pharmaverse/sdtmchecks"
+  },
+  {
+    "package": "simIDM",
+    "url": "https://github.com/insightsengineering/simIDM"
   },
   {
     "package": "simaerep",
