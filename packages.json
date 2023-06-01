@@ -80,10 +80,6 @@
         "url": "https://github.com/GSK-Biostatistics/tfrmt"
     },
     {
-        "package": "thevalidatoR",
-        "url": "https://github.com/insightsengineering/thevalidatoR"
-    },
-    {
         "package": "tidyCDISC",
         "url": "https://github.com/Biogen-Inc/tidyCDISC"
     },
