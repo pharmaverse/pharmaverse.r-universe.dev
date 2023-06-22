@@ -28,6 +28,10 @@
         "url": "https://github.com/pharmaverse/envsetup"
     },
     {
+        "package": "ggsurvfit",
+        "url": "https://github.com/pharmaverse/ggsurvfit"
+    },
+    {
         "package": "logrx",
         "url": "https://github.com/pharmaverse/logrx"
     },
@@ -78,6 +82,10 @@
     {
         "package": "tfrmt",
         "url": "https://github.com/GSK-Biostatistics/tfrmt"
+    },
+    {
+        "package": "thevalidatoR",
+        "url": "https://github.com/insightsengineering/thevalidatoR"
     },
     {
         "package": "tidyCDISC",
