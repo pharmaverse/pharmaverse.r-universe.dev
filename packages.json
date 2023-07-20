@@ -68,10 +68,6 @@
         "url": "https://github.com/pharmaverse/sdtmchecks"
     },
     {
-        "package": "synthetic.cdisc.data",
-        "url": "https://github.com/Roche/synthetic.cdisc.data"
-    },
-    {
         "package": "teal",
         "url": "https://github.com/insightsengineering/teal"
     },
