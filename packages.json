@@ -8,11 +8,7 @@
     "url": "https://github.com/pharmaverse/admiral.test"
   },
   {
-    "package": "admiral.test",
-    "url": "https://github.com/pharmaverse/admiral.test"
-  },
-  {
-    "package": "admiralext",
+    "package": "admiraltemplate",
     "url": "https://github.com/pharmaverse/admiraltemplate"
   },
   {
