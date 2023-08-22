@@ -1,310 +1,311 @@
 [
-  {
-    "package": "admiral",
-    "url": "https://github.com/pharmaverse/admiral"
-  },
-  {
-    "package": "admiral.test",
-    "url": "https://github.com/pharmaverse/admiral.test"
-  },
-  {
-    "package": "admiraltemplate",
-    "url": "https://github.com/pharmaverse/admiraltemplate"
-  },
-  {
-    "package": "admiralonco",
-    "url": "https://github.com/pharmaverse/admiralonco"
-  },
-  {
-    "package": "admiralophtha",
-    "url": "https://github.com/pharmaverse/admiralophtha"
-  },
-  {
-    "package": "admiralvaccine",
-    "url": "https://github.com/pharmaverse/admiralvaccine"
-  },
-  {
-    "package": "crmPack",
-    "url": "https://github.com/Roche/crmPack"
-  },
-  {
-    "package": "CTP",
-    "url": "https://github.com/openpharma/CTP"
-  },
-  {
-    "package": "datacutr",
-    "url": "https://github.com/pharmaverse/datacutr"
-  },
-  {
-    "package": "descem",
-    "url": "https://github.com/Roche/descem"
-  },
-  {
-    "package": "facetsr",
-    "url": "https://github.com/openpharma/facetsr"
-  },
-  {
-    "package": "flexsurvPlus",
-    "url": "https://github.com/Roche/flexsurvPlus"
-  },
-  {
-    "package": "formatters",
-    "url": "https://github.com/insightsengineering/formatters"
-  },
-  {
-    "package": "gemtcPlus",
-    "url": "https://github.com/Roche/gemtcPlus"
-  },
-  {
-    "package": "ggplot2.utils",
-    "url": "https://github.com/insightsengineering/ggplot2.utils"
-  },
-  {
-    "package": "ggtips",
-    "url": "https://github.com/Roche/ggtips"
-  },
-  {
-    "package": "goshawk",
-    "url": "https://github.com/insightsengineering/goshawk"
-  },
-  {
-    "package": "hermes",
-    "url": "https://github.com/insightsengineering/hermes"
-  },
-  {
-    "package": "logrx",
-    "url": "https://github.com/pharmaverse/logrx"
-  },
-  {
-    "package": "MAIC",
-    "url": "https://github.com/Roche/MAIC"
-  },
-  {
-    "package": "metacore",
-    "url": "https://github.com/atorus-research/metacore"
-  },
-  {
-    "package": "metatools",
-    "url": "https://github.com/pharmaverse/metatools"
-  },
-  {
-    "package": "mmrm",
-    "url": "https://github.com/openpharma/mmrm"
-  },
-  {
-    "package": "mtdesign",
-    "url": "https://github.com/openpharma/mtdesign"
-  },
-  {
-    "package": "nestcolor",
-    "url": "https://github.com/insightsengineering/nestcolor"
-  },
-  {
-    "package": "nesttemplate",
-    "url": "https://github.com/insightsengineering/nesttemplate"
-  },
-  {
-    "package": "osprey",
-    "url": "https://github.com/insightsengineering/osprey"
-  },
-  {
-    "package": "pharmaRTF",
-    "url": "https://github.com/atorus-research/pharmaRTF"
-  },
-  {
-    "package": "pharmaRTF",
-    "url": "https://github.com/atorus-research/pharmaRTF"
-  },
-  {
-    "package": "psborrow",
-    "url": "https://github.com/Genentech/psborrow"
-  },
-  {
-    "package": "r.pkg.template",
-    "url": "https://github.com/insightsengineering/r.pkg.template"
-  },
-  {
-    "package": "r2rtf",
-    "url": "https://github.com/Merck/r2rtf"
-  },
-  {
-    "package": "rbmi",
-    "url": "https://github.com/insightsengineering/rbmi"
-  },
-  {
-    "package": "RDO",
-    "url": "https://github.com/openpharma/RDO"
-  },
-  {
-    "package": "respectables",
-    "url": "https://github.com/Roche/respectables"
-  },
-  {
-    "package": "rlistings",
-    "url": "https://github.com/insightsengineering/rlistings"
-  },
-  {
-    "package": "rpsftmPlus",
-    "url": "https://github.com/Roche/rpsftmPlus"
-  },
-  {
-    "package": "rtables",
-    "url": "https://github.com/insightsengineering/rtables"
-  },
-  {
-    "package": "scda",
-    "url": "https://github.com/insightsengineering/scda"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022"
-  },
-  {
-    "package": "scda.test",
-    "url": "https://github.com/insightsengineering/scda.test"
-  },
-  {
-    "package": "sdtmchecks",
-    "url": "https://github.com/pharmaverse/sdtmchecks"
-  },
-  {
-    "package": "simaerep",
-    "url": "https://github.com/openpharma/simaerep"
-  },
-  {
-    "package": "simIDM",
-    "url": "https://github.com/insightsengineering/simIDM"
-  },
-  {
-    "package": "staged.dependencies",
-    "url": "https://github.com/openpharma/staged.dependencies"
-  },
-  {
-    "package": "synthetic.cdisc.data",
-    "url": "https://github.com/Roche/synthetic.cdisc.data"
-  },
-  {
-    "package": "syntrial",
-    "url": "https://github.com/openpharma/syntrial"
-  },
-  {
-    "package": "teal",
-    "url": "https://github.com/insightsengineering/teal"
-  },
-  {
-    "package": "teal.code",
-    "url": "https://github.com/insightsengineering/teal.code"
-  },
-  {
-    "package": "teal.data",
-    "url": "https://github.com/insightsengineering/teal.data"
-  },
-  {
-    "package": "teal.goshawk",
-    "url": "https://github.com/insightsengineering/teal.goshawk"
-  },
-  {
-    "package": "teal.logger",
-    "url": "https://github.com/insightsengineering/teal.logger"
-  },
-  {
-    "package": "teal.modules.clinical",
-    "url": "https://github.com/insightsengineering/teal.modules.clinical"
-  },
-  {
-    "package": "teal.modules.general",
-    "url": "https://github.com/insightsengineering/teal.modules.general"
-  },
-  {
-    "package": "teal.modules.hermes",
-    "url": "https://github.com/insightsengineering/teal.modules.hermes"
-  },
-  {
-    "package": "teal.osprey",
-    "url": "https://github.com/insightsengineering/teal.osprey"
-  },
-  {
-    "package": "teal.reporter",
-    "url": "https://github.com/insightsengineering/teal.reporter"
-  },
-  {
-    "package": "teal.slice",
-    "url": "https://github.com/insightsengineering/teal.slice"
-  },
-  {
-    "package": "teal.transform",
-    "url": "https://github.com/insightsengineering/teal.transform"
-  },
-  {
-    "package": "teal.widgets",
-    "url": "https://github.com/insightsengineering/teal.widgets"
-  },
-  {
-    "package": "tern",
-    "url": "https://github.com/insightsengineering/tern"
-  },
-  {
-    "package": "tern.gee",
-    "url": "https://github.com/insightsengineering/tern.gee"
-  },
-  {
-    "package": "tern.mmrm",
-    "url": "https://github.com/insightsengineering/tern.mmrm"
-  },
-  {
-    "package": "tern.rbmi",
-    "url": "https://github.com/insightsengineering/tern.rbmi"
-  },
-  {
-    "package": "Tplyr",
-    "url": "https://github.com/atorus-research/Tplyr"
-  },
-  {
-    "package": "uniCATE",
-    "url": "https://github.com/insightsengineering/uniCATE"
-  },
-  {
-    "package": "visR",
-    "url": "https://github.com/openpharma/visR"
-  },
-  {
-    "package": "xportr",
-    "url": "https://github.com/atorus-research/xportr"
-  },
-  {
-    "package": "covtracer",
-    "url": "https://github.com/Genentech/covtracer"
-  },
-  {
-    "package": "envsetup",
-    "url": "https://github.com/pharmaverse/envsetup"
-  },
-  {
-    "package": "riskassessment",
-    "url": "https://github.com/pharmaR/riskassessment"
-  },
-  {
-    "package": "tfrmt",
-    "url": "https://github.com/GSK-Biostatistics/tfrmt"
-  },
-  {
-    "package": "tidyCDISC",
-    "url": "https://github.com/Biogen-Inc/tidyCDISC"
-  },
-  {
-    "package": "tidytlg",
-    "url": "https://github.com/pharmaverse/tidytlg"
-  },
-  {
-    "package": "valtools",
-    "url": "https://github.com/phuse-org/valtools"
-  },
-  {
-    "package": "ggsurvfit",
-    "url": "https://github.com/pharmaverse/ggsurvfit"
-  }
+    {
+        "package": "admiral",
+        "url": "https://github.com/pharmaverse/admiral"
+    },
+    {
+        "package": "admiral.test",
+        "url": "https://github.com/pharmaverse/admiral.test"
+    },
+    {
+        "package": "admiralonco",
+        "url": "https://github.com/pharmaverse/admiralonco"
+    },
+    {
+        "package": "admiralophtha",
+        "url": "https://github.com/pharmaverse/admiralophtha"
+    },
+    {
+        "package": "admiraltemplate",
+        "url": "https://github.com/pharmaverse/admiraltemplate"
+    },
+    {
+        "package": "admiralvaccine",
+        "url": "https://github.com/pharmaverse/admiralvaccine"
+    },
+    {
+        "package": "covtracer",
+        "url": "https://github.com/Genentech/covtracer"
+    },
+    {
+        "package": "crmPack",
+        "url": "https://github.com/Roche/crmPack"
+    },
+    {
+        "package": "CTP",
+        "url": "https://github.com/openpharma/CTP"
+    },
+    {
+        "package": "datacutr",
+        "url": "https://github.com/pharmaverse/datacutr"
+    },
+    {
+        "package": "descem",
+        "url": "https://github.com/Roche/descem"
+    },
+    {
+        "package": "envsetup",
+        "url": "https://github.com/pharmaverse/envsetup"
+    },
+    {
+        "package": "facetsr",
+        "url": "https://github.com/openpharma/facetsr"
+    },
+    {
+        "package": "flexsurvPlus",
+        "url": "https://github.com/Roche/flexsurvPlus"
+    },
+    {
+        "package": "formatters",
+        "url": "https://github.com/insightsengineering/formatters"
+    },
+    {
+        "package": "gemtcPlus",
+        "url": "https://github.com/Roche/gemtcPlus"
+    },
+    {
+        "package": "ggplot2.utils",
+        "url": "https://github.com/insightsengineering/ggplot2.utils"
+    },
+    {
+        "package": "ggsurvfit",
+        "url": "https://github.com/pharmaverse/ggsurvfit"
+    },
+    {
+        "package": "ggtips",
+        "url": "https://github.com/Roche/ggtips"
+    },
+    {
+        "package": "goshawk",
+        "url": "https://github.com/insightsengineering/goshawk"
+    },
+    {
+        "package": "hermes",
+        "url": "https://github.com/insightsengineering/hermes"
+    },
+    {
+        "package": "logrx",
+        "url": "https://github.com/pharmaverse/logrx"
+    },
+    {
+        "package": "MAIC",
+        "url": "https://github.com/Roche/MAIC"
+    },
+    {
+        "package": "metacore",
+        "url": "https://github.com/atorus-research/metacore"
+    },
+    {
+        "package": "metatools",
+        "url": "https://github.com/pharmaverse/metatools"
+    },
+    {
+        "package": "mmrm",
+        "url": "https://github.com/openpharma/mmrm"
+    },
+    {
+        "package": "mtdesign",
+        "url": "https://github.com/openpharma/mtdesign"
+    },
+    {
+        "package": "nestcolor",
+        "url": "https://github.com/insightsengineering/nestcolor"
+    },
+    {
+        "package": "nesttemplate",
+        "url": "https://github.com/insightsengineering/nesttemplate"
+    },
+    {
+        "package": "osprey",
+        "url": "https://github.com/insightsengineering/osprey"
+    },
+    {
+        "package": "pharmaRTF",
+        "url": "https://github.com/atorus-research/pharmaRTF"
+    },
+    {
+        "package": "pharmaRTF",
+        "url": "https://github.com/atorus-research/pharmaRTF"
+    },
+    {
+        "package": "psborrow",
+        "url": "https://github.com/Genentech/psborrow"
+    },
+    {
+        "package": "r.pkg.template",
+        "url": "https://github.com/insightsengineering/r.pkg.template"
+    },
+    {
+        "package": "r2rtf",
+        "url": "https://github.com/Merck/r2rtf"
+    },
+    {
+        "package": "rbmi",
+        "url": "https://github.com/insightsengineering/rbmi"
+    },
+    {
+        "package": "RDO",
+        "url": "https://github.com/openpharma/RDO"
+    },
+    {
+        "package": "respectables",
+        "url": "https://github.com/Roche/respectables"
+    },
+    {
+        "package": "riskassessment",
+        "url": "https://github.com/pharmaR/riskassessment"
+    },
+    {
+        "package": "rlistings",
+        "url": "https://github.com/insightsengineering/rlistings"
+    },
+    {
+        "package": "rpsftmPlus",
+        "url": "https://github.com/Roche/rpsftmPlus"
+    },
+    {
+        "package": "rtables",
+        "url": "https://github.com/insightsengineering/rtables"
+    },
+    {
+        "package": "scda",
+        "url": "https://github.com/insightsengineering/scda"
+    },
+    {
+        "package": "scda.2021",
+        "url": "https://github.com/insightsengineering/scda.2021"
+    },
+    {
+        "package": "scda.2022",
+        "url": "https://github.com/insightsengineering/scda.2022"
+    },
+    {
+        "package": "scda.test",
+        "url": "https://github.com/insightsengineering/scda.test"
+    },
+    {
+        "package": "sdtmchecks",
+        "url": "https://github.com/pharmaverse/sdtmchecks"
+    },
+    {
+        "package": "simaerep",
+        "url": "https://github.com/openpharma/simaerep"
+    },
+    {
+        "package": "simIDM",
+        "url": "https://github.com/insightsengineering/simIDM"
+    },
+    {
+        "package": "staged.dependencies",
+        "url": "https://github.com/openpharma/staged.dependencies"
+    },
+    {
+        "package": "synthetic.cdisc.data",
+        "url": "https://github.com/Roche/synthetic.cdisc.data"
+    },
+    {
+        "package": "syntrial",
+        "url": "https://github.com/openpharma/syntrial"
+    },
+    {
+        "package": "teal",
+        "url": "https://github.com/insightsengineering/teal"
+    },
+    {
+        "package": "teal.code",
+        "url": "https://github.com/insightsengineering/teal.code"
+    },
+    {
+        "package": "teal.data",
+        "url": "https://github.com/insightsengineering/teal.data"
+    },
+    {
+        "package": "teal.goshawk",
+        "url": "https://github.com/insightsengineering/teal.goshawk"
+    },
+    {
+        "package": "teal.logger",
+        "url": "https://github.com/insightsengineering/teal.logger"
+    },
+    {
+        "package": "teal.modules.clinical",
+        "url": "https://github.com/insightsengineering/teal.modules.clinical"
+    },
+    {
+        "package": "teal.modules.general",
+        "url": "https://github.com/insightsengineering/teal.modules.general"
+    },
+    {
+        "package": "teal.modules.hermes",
+        "url": "https://github.com/insightsengineering/teal.modules.hermes"
+    },
+    {
+        "package": "teal.osprey",
+        "url": "https://github.com/insightsengineering/teal.osprey"
+    },
+    {
+        "package": "teal.reporter",
+        "url": "https://github.com/insightsengineering/teal.reporter"
+    },
+    {
+        "package": "teal.slice",
+        "url": "https://github.com/insightsengineering/teal.slice"
+    },
+    {
+        "package": "teal.transform",
+        "url": "https://github.com/insightsengineering/teal.transform"
+    },
+    {
+        "package": "teal.widgets",
+        "url": "https://github.com/insightsengineering/teal.widgets"
+    },
+    {
+        "package": "tern",
+        "url": "https://github.com/insightsengineering/tern"
+    },
+    {
+        "package": "tern.gee",
+        "url": "https://github.com/insightsengineering/tern.gee"
+    },
+    {
+        "package": "tern.mmrm",
+        "url": "https://github.com/insightsengineering/tern.mmrm"
+    },
+    {
+        "package": "tern.rbmi",
+        "url": "https://github.com/insightsengineering/tern.rbmi"
+    },
+    {
+        "package": "tfrmt",
+        "url": "https://github.com/GSK-Biostatistics/tfrmt"
+    },
+    {
+        "package": "tidyCDISC",
+        "url": "https://github.com/Biogen-Inc/tidyCDISC"
+    },
+    {
+        "package": "tidytlg",
+        "url": "https://github.com/pharmaverse/tidytlg"
+    },
+    {
+        "package": "Tplyr",
+        "url": "https://github.com/atorus-research/Tplyr"
+    },
+    {
+        "package": "uniCATE",
+        "url": "https://github.com/insightsengineering/uniCATE"
+    },
+    {
+        "package": "valtools",
+        "url": "https://github.com/phuse-org/valtools"
+    },
+    {
+        "package": "visR",
+        "url": "https://github.com/openpharma/visR"
+    },
+    {
+        "package": "xportr",
+        "url": "https://github.com/atorus-research/xportr"
+    }
 ]
+
