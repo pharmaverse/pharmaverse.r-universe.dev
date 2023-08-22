@@ -52,6 +52,10 @@
         "url": "https://github.com/openpharma/facetsr"
     },
     {
+        "package": "falcon",
+        "url": "https://github.com/pharmaverse/falcon"
+    },
+    {
         "package": "flexsurvPlus",
         "url": "https://github.com/Roche/flexsurvPlus"
     },
@@ -154,6 +158,10 @@
     {
         "package": "riskassessment",
         "url": "https://github.com/pharmaR/riskassessment"
+    },
+    {
+        "package": "riskmetric",
+        "url": "https://github.com/pharmaR/riskmetric"
     },
     {
         "package": "rlistings",
@@ -277,7 +285,11 @@
     },
     {
         "package": "tfrmt",
-        "url": "https://github.com/GSK-Biostatistics/tfrmt"
+        "url": "https://github.com/GSK-Biostatistics/tfrmt7"
+    },
+    {
+        "package": "thevalidatoR",
+        "url": "https://github.com/insightsengineering/thevalidatoR"
     },
     {
         "package": "tidyCDISC",
@@ -301,11 +313,10 @@
     },
     {
         "package": "visR",
-        "url": "https://github.com/openpharma/visR"
+        "url": "https://github.com/openpharma/visR2"
     },
     {
         "package": "xportr",
         "url": "https://github.com/atorus-research/xportr"
     }
 ]
-
