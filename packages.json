@@ -306,5 +306,9 @@
   {
     "package": "ggsurvfit",
     "url": "https://github.com/pharmaverse/ggsurvfit"
+  },
+  {
+    "package": "pharmaversesdtm",
+    "url": "https://github.com/pharmaverse/pharmaversesdtm"
   }
 ]
