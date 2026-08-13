@@ -326,5 +326,57 @@
   {
     "package": "autoslider.core",
     "url": "https://github.com/insightsengineering/autoslider.core"
+  },
+  {
+    "package": "admiraldev",
+    "url": "https://github.com/pharmaverse/admiraldev"
+  },
+  {
+    "package": "admiralmetabolic",
+    "url": "https://github.com/pharmaverse/admiralmetabolic"
+  },
+  {
+    "package": "admiralneuro",
+    "url": "https://github.com/pharmaverse/admiralneuro"
+  },
+  {
+    "package": "admiralpeds",
+    "url": "https://github.com/pharmaverse/admiralpeds"
+  },
+  {
+    "package": "aNCA",
+    "url": "https://github.com/pharmaverse/anca"
+  },
+  {
+    "package": "cardinalfda",
+    "url": "https://github.com/pharmaverse/cardinal"
+  },
+  {
+    "package": "gridify",
+    "url": "https://github.com/pharmaverse/gridify"
+  },
+  {
+    "package": "logrxaddin",
+    "url": "https://github.com/pharmaverse/logrxaddin"
+  },
+  {
+    "package": "pharmaverse",
+    "url": "https://github.com/pharmaverse/pharmaverse-pkg"
+  },
+  {
+    "package": "pharmaverseraw",
+    "url": "https://github.com/pharmaverse/pharmaverseraw"
+  },
+  {
+    "package": "risk.assessr",
+    "url": "https://github.com/pharmaverse/risk.assessr"
+  },
+  {
+    "package": "sdtm.oak",
+    "url": "https://github.com/pharmaverse/sdtm.oak"
+  },
+  {
+    "package": "test.assessr",
+    "url": "https://github.com/pharmaverse/test.assessr"
   }
 ]
