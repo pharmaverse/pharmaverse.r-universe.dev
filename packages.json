@@ -4,10 +4,6 @@
     "url": "https://github.com/pharmaverse/admiral"
   },
   {
-    "package": "admiral.test",
-    "url": "https://github.com/pharmaverse/admiral.test"
-  },
-  {
     "package": "admiralonco",
     "url": "https://github.com/pharmaverse/admiralonco"
   },
@@ -21,7 +17,7 @@
   },
   {
     "package": "crmPack",
-    "url": "https://github.com/Roche/crmPack"
+    "url": "https://github.com/openpharma/crmPack"
   },
   {
     "package": "CTP",
@@ -45,7 +41,7 @@
   },
   {
     "package": "formatters",
-    "url": "https://github.com/insightsengineering/formatters"
+    "url": "https://github.com/pharmaverse/formatters"
   },
   {
     "package": "gemtcPlus",
@@ -104,10 +100,6 @@
     "url": "https://github.com/atorus-research/pharmaRTF"
   },
   {
-    "package": "pharmaRTF",
-    "url": "https://github.com/atorus-research/pharmaRTF"
-  },
-  {
     "package": "psborrow",
     "url": "https://github.com/Genentech/psborrow"
   },
@@ -121,7 +113,7 @@
   },
   {
     "package": "rbmi",
-    "url": "https://github.com/insightsengineering/rbmi"
+    "url": "https://github.com/openpharma/rbmi"
   },
   {
     "package": "RDO",
@@ -133,7 +125,7 @@
   },
   {
     "package": "rlistings",
-    "url": "https://github.com/insightsengineering/rlistings"
+    "url": "https://github.com/pharmaverse/rlistings"
   },
   {
     "package": "rpsftmPlus",
@@ -141,19 +133,7 @@
   },
   {
     "package": "rtables",
-    "url": "https://github.com/insightsengineering/rtables"
-  },
-  {
-    "package": "scda",
-    "url": "https://github.com/insightsengineering/scda"
-  },
-  {
-    "package": "scda.2021",
-    "url": "https://github.com/insightsengineering/scda.2021"
-  },
-  {
-    "package": "scda.2022",
-    "url": "https://github.com/insightsengineering/scda.2022"
+    "url": "https://github.com/pharmaverse/rtables"
   },
   {
     "package": "sdtmchecks",
@@ -177,15 +157,15 @@
   },
   {
     "package": "teal",
-    "url": "https://github.com/insightsengineering/teal"
+    "url": "https://github.com/pharmaverse/teal"
   },
   {
     "package": "teal.code",
-    "url": "https://github.com/insightsengineering/teal.code"
+    "url": "https://github.com/pharmaverse/teal.code"
   },
   {
     "package": "teal.data",
-    "url": "https://github.com/insightsengineering/teal.data"
+    "url": "https://github.com/pharmaverse/teal.data"
   },
   {
     "package": "teal.goshawk",
@@ -193,7 +173,7 @@
   },
   {
     "package": "teal.logger",
-    "url": "https://github.com/insightsengineering/teal.logger"
+    "url": "https://github.com/pharmaverse/teal.logger"
   },
   {
     "package": "teal.modules.clinical",
@@ -213,23 +193,23 @@
   },
   {
     "package": "teal.reporter",
-    "url": "https://github.com/insightsengineering/teal.reporter"
+    "url": "https://github.com/pharmaverse/teal.reporter"
   },
   {
     "package": "teal.slice",
-    "url": "https://github.com/insightsengineering/teal.slice"
+    "url": "https://github.com/pharmaverse/teal.slice"
   },
   {
     "package": "teal.transform",
-    "url": "https://github.com/insightsengineering/teal.transform"
+    "url": "https://github.com/pharmaverse/teal.transform"
   },
   {
     "package": "teal.widgets",
-    "url": "https://github.com/insightsengineering/teal.widgets"
+    "url": "https://github.com/pharmaverse/teal.widgets"
   },
   {
     "package": "tern",
-    "url": "https://github.com/insightsengineering/tern"
+    "url": "https://github.com/pharmaverse/tern"
   },
   {
     "package": "tern.gee",
@@ -325,7 +305,7 @@
   },
   {
     "package": "autoslider.core",
-    "url": "https://github.com/insightsengineering/autoslider.core"
+    "url": "https://github.com/pharmaverse/autoslider.core"
   },
   {
     "package": "admiraldev",
@@ -378,5 +358,17 @@
   {
     "package": "test.assessr",
     "url": "https://github.com/pharmaverse/test.assessr"
+  },
+  {
+    "package": "teal.picks",
+    "url": "https://github.com/pharmaverse/teal.picks"
+  },
+  {
+    "package": "pmxdchk",
+    "url": "https://github.com/pharmaverse/pmxdchk"
+  },
+  {
+    "package": "admiraldiscovery",
+    "url": "https://github.com/pharmaverse/admiraldiscovery"
   }
 ]
